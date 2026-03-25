@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "IP-adres: PotatoCraft-DDKN.aternos.me",
+    "ip": "IP-adres: "PotatoCraft-DDKN.aternos.me",
     "port": 43876,
     "version": "",
     "try-creative": false
