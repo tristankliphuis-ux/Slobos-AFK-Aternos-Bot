@@ -8,7 +8,7 @@
   "server": {
     "ip": "PotatoCraft-DDKN.aternos.me:43876",
     "port": 43876,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
